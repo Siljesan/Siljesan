@@ -15,7 +15,7 @@ Have a look at my repos and get in touch if you are interested in seeing more! �
 
 ## Contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-silje-sandersen?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/silje-sandersen/)](https://www.linkedin.com/in/silje-sandersen/)
+[![Linkedin Badge](https://img.shields.io/badge/-silje-sandersen?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/silje-sandersen/)](https://www.linkedin.com/in/silje-sch%C3%B8ll-897ab0158/)
 
 <!--
 **Siljesan/Siljesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
